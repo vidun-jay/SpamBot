@@ -1,5 +1,5 @@
-# SpamBot
+# Usage
 
-Make sure python3 and pyautogui are installed before running!
+Make sure to use python3 when running.
 
-"pip3 install pyautogui"
+`pip3 install -r requirements.txt`
