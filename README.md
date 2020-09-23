@@ -1,5 +1,6 @@
 # Usage
 
-## SpamBot uses python3, check python version before running.
+1. cd into the SpamBot directory
 
-`pip3 install -r requirements.txt`
+2. `pip3 install -r requirements.txt`
+3. `python3 SpamBot.py`
